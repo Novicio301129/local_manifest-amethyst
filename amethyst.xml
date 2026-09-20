@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="bluedmc" fetch="https://github.com/BluedMC-Amethyst/" />
+  <remote name="novicio" fetch="https://github.com/Novicio301129/" />
 
   <project name="device_xiaomi_amethyst"
            path="device/xiaomi/amethyst"
-           remote="bluedmc"
+           remote="novicio"
            revision="seventeen" />
 
   <project name="device_xiaomi_amethyst-kernel"
@@ -38,4 +39,3 @@
            revision="seventeen" />
   
 </manifest>
-
