@@ -32,11 +32,6 @@
            path="device/qcom/sepolicy_vndr/sm8650"
            remote="bluedmc"
            revision="seventeen-sm8650" />
-
-  <project name="packages_apps_ViPER4AndroidFX"
-           path="packages/apps/ViPER4AndroidFX"
-           remote="bluedmc"
-           revision="seventeen" />
   
   <project name="packages_apps_LunarisDolby"
            path="packages/apps/LunarisDolby"
