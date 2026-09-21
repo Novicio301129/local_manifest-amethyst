@@ -27,11 +27,6 @@
            path="hardware/xiaomi"
            remote="bluedmc"
            revision="seventeen" />
-
-  <project name="device_qcom_sepolicy_vndr"
-           path="device/qcom/sepolicy_vndr/sm8650"
-           remote="bluedmc"
-           revision="seventeen-sm8650" />
   
   <project name="packages_apps_LunarisDolby"
            path="packages/apps/LunarisDolby"
