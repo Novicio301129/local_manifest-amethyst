@@ -6,7 +6,7 @@
   <project name="device_xiaomi_amethyst"
            path="device/xiaomi/amethyst"
            remote="novicio"
-           revision="Rising17" />
+           revision="InfinityX17" />
 
   <project name="device_xiaomi_amethyst-kernel"
            path="device/xiaomi/amethyst-kernel"
@@ -18,7 +18,7 @@
            remote="bluedmc"
            revision="seventeen" />
 
-  <project name="vendor_JamesDSP"
+  <project name="android_vendor_JamesDSP"
            path="vendor/JamesDSP"
            remote="bluedmc"
            revision="seventeen" />
