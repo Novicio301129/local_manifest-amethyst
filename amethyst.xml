@@ -6,7 +6,7 @@
   <project name="device_xiaomi_amethyst"
            path="device/xiaomi/amethyst"
            remote="novicio"
-           revision="Crdroid16" />
+           revision="Avium16" />
 
   <project name="device_xiaomi_amethyst-kernel"
            path="device/xiaomi/amethyst-kernel"
