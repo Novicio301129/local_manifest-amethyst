@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="bluedmc" fetch="https://github.com/BluedMC-Amethyst/" />
-
+  <remote name="novicio" fetch="https://github.com/Novicio301129/" />
+  
   <project name="device_xiaomi_amethyst"
            path="device/xiaomi/amethyst"
-           remote="bluedmc"
-           revision="sixteen" />
+           remote="novicio"
+           revision="Crdroid16" />
 
   <project name="device_xiaomi_amethyst-kernel"
            path="device/xiaomi/amethyst-kernel"
@@ -22,11 +23,6 @@
            remote="bluedmc"
            revision="sixteen" />
 
-  <project name="device_qcom_sepolicy_vndr"
-           path="device/qcom/sepolicy_vndr/sm8650"
-           remote="bluedmc"
-           revision="sixteen-sm8650" />
-
   <project name="device_xiaomi_amethyst-miuicamera"
            path="device/xiaomi/amethyst-miuicamera"
            remote="bluedmc"
@@ -37,10 +33,10 @@
            remote="bluedmc"
            revision="sixteen" />
 
-  <project name="packages_apps_ViPER4AndroidFX"
-           path="packages/apps/ViPER4AndroidFX"
-           remote="bluedmc"
-           revision="sixteen" />
+  <project name="android_vendor_JamesDSP"
+           path="vendor/JamesDSP"
+           remote="novicio"
+           revision="seventeen" />
            
   <project name="packages_apps_LunarisDolby"
            path="packages/apps/LunarisDolby"
