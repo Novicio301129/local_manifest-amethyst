@@ -20,7 +20,7 @@
 
   <project name="android_vendor_JamesDSP"
            path="vendor/JamesDSP"
-           remote="bluedmc"
+           remote="novicio"
            revision="seventeen" />
 
   <project name="hardware_xiaomi"
