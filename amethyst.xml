@@ -18,11 +18,11 @@
            remote="bluedmc"
            revision="seventeen" />
 
-  <project name="packages_apps_ViPER4AndroidFX"
-           path="packages/apps/ViPER4AndroidFX"
-           remote="bluedmc"
+  <project name="android_vendor_JamesDSP"
+           path="vendor/JamesDSP"
+           remote="novicio"
            revision="seventeen" />
-
+  
   <project name="hardware_xiaomi"
            path="hardware/xiaomi"
            remote="bluedmc"
